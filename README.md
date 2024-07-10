@@ -36,6 +36,7 @@ MVC architecture
 4. Add data caching on the second screen, and check if there is no response from the service, then display the data from the cache.
 5. Add a tab bar for screen navigation.
 
+[//]:
 <img src="./assets/images/screen1.png" alt="Project Logo" width="200" />
 <img src="./assets/images/screen2.png" alt="Project Logo" width="200" />
 <img src="./assets/images/screen4.png" alt="Project Logo" width="200" />
